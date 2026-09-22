@@ -1,0 +1,72 @@
+! =====================================================
+! StreamNoAds
+! VERSÃO MELHORADA (base: tammo2701/StreamNoAds, revisão 21/09/2026)
+! =====================================================
+
+! ---- YouTube ----
+@@||apis.google.com^
+@@||www.youtube-nocookie.com^
+@@||googlevideo.com^
+@@||youtubei.googleapis.com^
+
+! ---- Netflix ----
+@@||assets.nflxext.com^
+@@||nflxso.net^
+@@||nflxvideo.net^
+@@||nflximg.net^
+
+! ---- Amazon / Prime Video ----
+@@||unagi.amazon.com^
+@@||atv-ps.amazon.com^
+@@||fls-na.amazon.com^
+@@||fls-eu.amazon.com^
+@@||primevideo.com^
+@@||aiv-delivery.net^
+
+! ---- Pluto TV ----
+@@||api.pluto.tv^
+@@||boot.pluto.tv^
+@@||plutotv.net^
+@@||ads-stitcher.pluto.tv^
+
+! ---- Tubi ----
+@@||api.tubi.tv^
+@@||tubicdn.com^
+
+! ---- Joyn ----
+@@||api.joyn.de^
+@@||auth.joyn.de^
+@@||cdn.joyn.de^
+
+! ---- RTL+ ----
+@@||api.tvnow.de^
+@@||auth.rtl.de^
+@@||rtl-online.de^
+
+! ---- Disney+ ----
+@@||global.edge.bamgrid.com^
+@@||disney.api.edge.bamgrid.com^
+@@||cdn.registerdisney.go.com^
+@@||disneyplus.com^
+@@||dssott.com^
+
+! ---- Twitch ----
+@@||gql.twitch.tv^
+@@||clips.twitch.tv^
+@@||video.twitchcdn.net^
+@@||static.twitchcdn.net^
+@@||usher.twitchapps.com^
+
+! ---- Sky / WOW ----
+@@||loginpage.sky.de^
+@@||account.sky.de^
+
+! ---- Crunchyroll ----
+@@||api.crunchyroll.com^
+@@||auth.crunchyroll.com^
+
+! ---- ARD / ZDF ----
+@@||api.ardmediathek.de^
+@@||ard.de^
+@@||api.zdf.de^
+@@||zdf.de^
